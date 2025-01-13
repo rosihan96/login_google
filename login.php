@@ -69,7 +69,7 @@
 <body>
     <div class="container">
         <a href="<?=  $client->createAuthUrl(); ?>">
-            <img src="img/sso-google.png" alt="tombol login" width="40%">
+            <img src="sso-google.png" alt="tombol login" width="40%">
         </a>
     </div>
 </body>
